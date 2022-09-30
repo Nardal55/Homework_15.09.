@@ -1,0 +1,15 @@
+/Users/stanislavslepa/Desktop/GeekBrains /C# Андрей Булгаков (ДЗ)/homework29 26.09/bin/Debug/net6.0/homework29 26.09
+/Users/stanislavslepa/Desktop/GeekBrains /C# Андрей Булгаков (ДЗ)/homework29 26.09/bin/Debug/net6.0/homework29 26.09.deps.json
+/Users/stanislavslepa/Desktop/GeekBrains /C# Андрей Булгаков (ДЗ)/homework29 26.09/bin/Debug/net6.0/homework29 26.09.runtimeconfig.json
+/Users/stanislavslepa/Desktop/GeekBrains /C# Андрей Булгаков (ДЗ)/homework29 26.09/bin/Debug/net6.0/homework29 26.09.dll
+/Users/stanislavslepa/Desktop/GeekBrains /C# Андрей Булгаков (ДЗ)/homework29 26.09/bin/Debug/net6.0/homework29 26.09.pdb
+/Users/stanislavslepa/Desktop/GeekBrains /C# Андрей Булгаков (ДЗ)/homework29 26.09/obj/Debug/net6.0/homework29 26.09.csproj.AssemblyReference.cache
+/Users/stanislavslepa/Desktop/GeekBrains /C# Андрей Булгаков (ДЗ)/homework29 26.09/obj/Debug/net6.0/homework29 26.09.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stanislavslepa/Desktop/GeekBrains /C# Андрей Булгаков (ДЗ)/homework29 26.09/obj/Debug/net6.0/homework29 26.09.AssemblyInfoInputs.cache
+/Users/stanislavslepa/Desktop/GeekBrains /C# Андрей Булгаков (ДЗ)/homework29 26.09/obj/Debug/net6.0/homework29 26.09.AssemblyInfo.cs
+/Users/stanislavslepa/Desktop/GeekBrains /C# Андрей Булгаков (ДЗ)/homework29 26.09/obj/Debug/net6.0/homework29 26.09.csproj.CoreCompileInputs.cache
+/Users/stanislavslepa/Desktop/GeekBrains /C# Андрей Булгаков (ДЗ)/homework29 26.09/obj/Debug/net6.0/homework29 26.09.dll
+/Users/stanislavslepa/Desktop/GeekBrains /C# Андрей Булгаков (ДЗ)/homework29 26.09/obj/Debug/net6.0/refint/homework29 26.09.dll
+/Users/stanislavslepa/Desktop/GeekBrains /C# Андрей Булгаков (ДЗ)/homework29 26.09/obj/Debug/net6.0/homework29 26.09.pdb
+/Users/stanislavslepa/Desktop/GeekBrains /C# Андрей Булгаков (ДЗ)/homework29 26.09/obj/Debug/net6.0/homework29 26.09.genruntimeconfig.cache
+/Users/stanislavslepa/Desktop/GeekBrains /C# Андрей Булгаков (ДЗ)/homework29 26.09/obj/Debug/net6.0/ref/homework29 26.09.dll
