@@ -1,0 +1,30 @@
+/Users/stanislavslepa/Desktop/GeekBrains /C# Андрей Булгаков (ДЗ)/primer/bin/Debug/net6.0/primer
+/Users/stanislavslepa/Desktop/GeekBrains /C# Андрей Булгаков (ДЗ)/primer/bin/Debug/net6.0/primer.deps.json
+/Users/stanislavslepa/Desktop/GeekBrains /C# Андрей Булгаков (ДЗ)/primer/bin/Debug/net6.0/primer.runtimeconfig.json
+/Users/stanislavslepa/Desktop/GeekBrains /C# Андрей Булгаков (ДЗ)/primer/bin/Debug/net6.0/primer.dll
+/Users/stanislavslepa/Desktop/GeekBrains /C# Андрей Булгаков (ДЗ)/primer/bin/Debug/net6.0/primer.pdb
+/Users/stanislavslepa/Desktop/GeekBrains /C# Андрей Булгаков (ДЗ)/primer/obj/Debug/net6.0/primer.csproj.AssemblyReference.cache
+/Users/stanislavslepa/Desktop/GeekBrains /C# Андрей Булгаков (ДЗ)/primer/obj/Debug/net6.0/primer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stanislavslepa/Desktop/GeekBrains /C# Андрей Булгаков (ДЗ)/primer/obj/Debug/net6.0/primer.AssemblyInfoInputs.cache
+/Users/stanislavslepa/Desktop/GeekBrains /C# Андрей Булгаков (ДЗ)/primer/obj/Debug/net6.0/primer.AssemblyInfo.cs
+/Users/stanislavslepa/Desktop/GeekBrains /C# Андрей Булгаков (ДЗ)/primer/obj/Debug/net6.0/primer.csproj.CoreCompileInputs.cache
+/Users/stanislavslepa/Desktop/GeekBrains /C# Андрей Булгаков (ДЗ)/primer/obj/Debug/net6.0/primer.dll
+/Users/stanislavslepa/Desktop/GeekBrains /C# Андрей Булгаков (ДЗ)/primer/obj/Debug/net6.0/refint/primer.dll
+/Users/stanislavslepa/Desktop/GeekBrains /C# Андрей Булгаков (ДЗ)/primer/obj/Debug/net6.0/primer.pdb
+/Users/stanislavslepa/Desktop/GeekBrains /C# Андрей Булгаков (ДЗ)/primer/obj/Debug/net6.0/primer.genruntimeconfig.cache
+/Users/stanislavslepa/Desktop/GeekBrains /C# Андрей Булгаков (ДЗ)/primer/obj/Debug/net6.0/ref/primer.dll
+/Users/stanislavslepa/Desktop/GeekBrains /C# Андрей Булгаков (ДЗ)/homework41 1.10/obj/Debug/net6.0/primer.csproj.AssemblyReference.cache
+/Users/stanislavslepa/Desktop/GeekBrains /C# Андрей Булгаков (ДЗ)/homework41 1.10/obj/Debug/net6.0/primer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stanislavslepa/Desktop/GeekBrains /C# Андрей Булгаков (ДЗ)/homework41 1.10/obj/Debug/net6.0/primer.AssemblyInfoInputs.cache
+/Users/stanislavslepa/Desktop/GeekBrains /C# Андрей Булгаков (ДЗ)/homework41 1.10/obj/Debug/net6.0/primer.AssemblyInfo.cs
+/Users/stanislavslepa/Desktop/GeekBrains /C# Андрей Булгаков (ДЗ)/homework41 1.10/obj/Debug/net6.0/primer.csproj.CoreCompileInputs.cache
+/Users/stanislavslepa/Desktop/GeekBrains /C# Андрей Булгаков (ДЗ)/homework41 1.10/obj/Debug/net6.0/primer.dll
+/Users/stanislavslepa/Desktop/GeekBrains /C# Андрей Булгаков (ДЗ)/homework41 1.10/obj/Debug/net6.0/refint/primer.dll
+/Users/stanislavslepa/Desktop/GeekBrains /C# Андрей Булгаков (ДЗ)/homework41 1.10/obj/Debug/net6.0/primer.pdb
+/Users/stanislavslepa/Desktop/GeekBrains /C# Андрей Булгаков (ДЗ)/homework41 1.10/bin/Debug/net6.0/primer
+/Users/stanislavslepa/Desktop/GeekBrains /C# Андрей Булгаков (ДЗ)/homework41 1.10/bin/Debug/net6.0/primer.deps.json
+/Users/stanislavslepa/Desktop/GeekBrains /C# Андрей Булгаков (ДЗ)/homework41 1.10/bin/Debug/net6.0/primer.runtimeconfig.json
+/Users/stanislavslepa/Desktop/GeekBrains /C# Андрей Булгаков (ДЗ)/homework41 1.10/bin/Debug/net6.0/primer.dll
+/Users/stanislavslepa/Desktop/GeekBrains /C# Андрей Булгаков (ДЗ)/homework41 1.10/bin/Debug/net6.0/primer.pdb
+/Users/stanislavslepa/Desktop/GeekBrains /C# Андрей Булгаков (ДЗ)/homework41 1.10/obj/Debug/net6.0/primer.genruntimeconfig.cache
+/Users/stanislavslepa/Desktop/GeekBrains /C# Андрей Булгаков (ДЗ)/homework41 1.10/obj/Debug/net6.0/ref/primer.dll
