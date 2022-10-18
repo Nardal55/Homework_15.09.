@@ -2,11 +2,11 @@
 {
     int[,] matrix = new int[rows, columns];
     var rnd = new Random();
-    for (int i = 0; i < matrix.GetLength(0); i++) //rows ---строки
+    for (int i = 0; i < matrix.GetLength(0); i++) 
     {
-        for (int j = 0; j < matrix.GetLength(1); j++)  //columns ---столбцы
+        for (int j = 0; j < matrix.GetLength(1); j++)  
         {
-            matrix[i, j] = rnd.Next(min, max + 1);  // проходим по массивам важно!!!
+            matrix[i, j] = rnd.Next(min, max + 1);  
         }
     }
     return matrix;
